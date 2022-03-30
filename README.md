@@ -12,8 +12,6 @@
 
 3. [Reference Links](#reference-links)
 
-4. [Visuals](#visuals)
-
 <hr>
 
 ## About
@@ -25,7 +23,7 @@ This JavaScript application takes use of MySql to store information about a team
 
 ## How To Use
 
-This program thrives on it's user friendly interface and simplicity. First you will run a `npm install` command in the terminal/console. After this you can run the final command `node index.js`. This will now prompt you with questions regarding information of your employees or departments.. After answering all the questions the results will be stored in a database.
+This program thrives on it's user friendly interface and simplicity. First you will run a `npm install` command in the terminal/console. After this you can run the final command `node index.js`. This will now prompt you with questions regarding information of your employees or departments.. After answering all the questions the results will be stored in a datab
 
 <hr>
 
@@ -39,14 +37,6 @@ https://docs.npmjs.com/
 
 https://www.npmjs.com/package/inquirer
 
-### Classes
+### MYSQL databases
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
-
-<hr>
-
-## Visuals
-
-### Test Video
-
-![Test Video](/teamcreatordemo.gif)
+https://dev.mysql.com/doc/
